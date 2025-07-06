@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rishi Enterprise | Fancy Yarn Manufacturer</title>
+  <style>
+    body { margin: 0; font-family: 'Segoe UI', sans-serif; background: #f8f9fa; color: #333; }
+    header { background: #005baa; color: #fff; padding: 20px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    .hero { background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('banner-placeholder.jpg') center/cover; padding: 100px 20px; color: white; text-align: center; }
+    .hero h1 { font-size: 2.5em; margin-bottom: 10px; }
+    .section { padding: 50px 20px; max-width: 1200px; margin: auto; }
+    .section h2 { color: #005baa; margin-bottom: 20px; }
+    .products, .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+    .product, .gallery-item { background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px; text-align: center; }
+    footer { background: #003e7e; color: white; text-align: center; padding: 20px; }
+    .contact p, .contact a { margin: 5px 0; color: #333; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rishi Enterprise</h1>
+    <p>Where every yarn tells a shining story</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#products">Products</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header> <section class="hero">
+    <h1>Brilliance in Every Thread</h1>
+    <p>Manufacturer of Fancy Sequence Yarn in Polyester, Nylon, Viscose, and More</p>
+  </section> <section id="about" class="section">
+    <h2>About Us</h2>
+    <p>Rishi Enterprise is a manufacturer and supplier of fancy yarn in polyester, nylon, staple viscose, lichi, and slub varieties. We understand that every business is unique, which is why we work closely with our clients to understand their specific needs and provide customized solutions that deliver results.</p>
+    <p>Our team of experts has extensive experience in a wide range of yarn manufacturing processes and we have a proven track record of delivering innovative solutions that help businesses succeed.</p>
+  </section> <section id="services" class="section">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Custom Fancy Yarn Manufacturing</li>
+      <li>Bulk Supply and Distribution</li>
+      <li>Product Consultation</li>
+      <li>Client-Specific Yarn Design</li>
+    </ul>
+  </section> <section id="products" class="section">
+    <h2>Our Products</h2>
+    <div class="products">
+      <div class="product">Product Image 1</div>
+      <div class="product">Product Image 2</div>
+      <div class="product">Product Image 3</div>
+      <div class="product">Product Image 4</div>
+    </div>
+  </section> <section id="gallery" class="section">
+    <h2>Gallery</h2>
+    <div class="gallery">
+      <div class="gallery-item">Gallery Image 1</div>
+      <div class="gallery-item">Gallery Image 2</div>
+      <div class="gallery-item">Gallery Image 3</div>
+      <div class="gallery-item">Gallery Image 4</div>
+    </div>
+  </section> <section id="contact" class="section contact">
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> Mahalaxmi 2, Near Rayka Circle, Udhna, Surat – 394210, Gujarat</p>
+    <p><strong>Email:</strong> <a href="mailto:rishi.ent.17@gmail.com">rishi.ent.17@gmail.com</a></p>
+    <p><strong>Phone:</strong> <a href="tel:+919328224846">+91 93282 24846</a></p>
+    <p><strong>IndiaMART:</strong> <a href="https://m.indiamart.com/rishi-enterprise-surat/profile.html" target="_blank">Visit Profile</a></p>
+    <p>With years of expertise, advanced technology, and a passion for quality, we deliver brilliance in every thread.</p>
+    <p><em>Our Focus: Innovation, Quality, and Customer Satisfaction</em></p>
+  </section> <footer>
+    <p>&copy; 2025 Rishi Enterprise. All rights reserved.</p>
+  </footer>
+</body>
+</html>
